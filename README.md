@@ -1,5 +1,3 @@
-# E-commerce-Sales-analyst
-Analysed e-commerce sales trends, customer purchasing patterns, and delivery performance using Tableau visualisations and Weka J48 decision-tree modelling to identify actionable business insights.
 # E-commerce Sales Analysis and Decision Tree Modelling
 
 ## Project Overview
@@ -32,8 +30,7 @@ This academic Business Intelligence project analyses the Olist Brazilian e-comme
 - Explore cross-selling opportunities using product-purchasing patterns.
 
 ## Project Files
-- `ecommerce-sales-analysis-and-decision-tree-modelling.pptx` — project presentation.
-- Tableau dashboard screenshots and analysis files can be added as supplementary materials.
+https://public.tableau.com/views/E-commerceSalesLogisticsAnalysis/10_SeasonalSalesPattern?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Project Context
 This is an academic portfolio project. Findings and model performance reflect the analysis presented in the project presentation.
